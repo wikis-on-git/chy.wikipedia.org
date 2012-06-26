@@ -4,9 +4,18 @@ __NOTOC__
 [[File:Flag of Northern Cheyenne.svg|left|250px]]
 <div style="border:1px solid grey; background:#eeeeff; padding:33px"><center>
 <big><big><big><font color="blue">'''Va'ohtama!'''</font></big></big></big><br/><br/>'''{{NUMBEROFARTICLES}}''' [[Special:Allpages|Netsêhesenêstsehe]].<br>
-'''[[:Category:Category-ne'tahe|Category-ne'tahe]]'''</center></div>
+'''[[:Category:Category-ne'tahe|Category-ne'tahe]]'''
+</div></center></div>
 |}
-
+<inputbox>
+ type      = create
+ width     = 40
+ bgcolor   = #ffffff
+ buttonlabel= Create a new article
+ preload   = Template:Standard content for new page
+ editintro = Template:Instructions
+ default   = 
+</inputbox>
 {| style="border: 0; background-color: #ffffff" cellpadding="0" cellspacing="10"
 | style="width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF" |
 <div style="background-color:#A8D3FF; font-size:1px; height:8px; border-bottom:1px solid #8898BF;"></div>
