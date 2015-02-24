@@ -471,26 +471,30 @@ eğimli bir rampanın önden görünüşü=>okey takozu olarak suali muhakeme et
                                  m²*L(km)=>m³->Kamyon kantar fişleri    
  
 
-    Töhmetsiz Kum Hesapına genel bakış
+                         Töhmetsiz Kum,silindir açılımına Hesapına genel bakış;        
+           Şayet istenirse Silindirin(t=15mm boru) saç büküm açılımı O ->ỿ-> a=12m  b=π*1.7m               
           ↓↓ bknz  
      \             /-->Harfiyat              
        \          /-->a*h üst kum dolgu    Nivo ± h mm  ↓↓ bknz  σ->Zemin mekaniği ters eğimli töhmetli seçenekler   
         \ Φmm    /--->(a+b/2*h)-(π*D^2/4)  dolgu kum ->şayet evsafına uygun değilse kalker,kireç v.s.                
          \1700  /      yamuk   -   daire=Taralı alan---->Kamyon kantar fişleri--->1
           \    / --->ao*h0 alt kum dolgu-->Nivo ± ho mm                                                
-            
-                                                       
- 
+                     
+                                                                         
                 ↓↓ bknz Şayet %100 net m² istenirse->Boru ile alt kum dolgu temas yüzey kesit m²->r/6 D/12   
                (Taralı alan- O→m²)*L(Km)= m³->Kamyon kantar fişleri------->2                          
                 A=(a+b/2*h)-(π*D^2/4)-(πR^2)/12    A*L=m³ kum                                                                   
 
-                                 Anet=[(a+b/2*h)-(π*D^2/4)]-(πD^2)/48       
-                                         A2        Ao         Ao/12                ↓↓Oran ve Orantı
-                                                  ↓↓ bknz r/6  daire dilimin m²? ->Ao*1/12
-     Φ1700mm t=15mm L=12m Silindirin(boru) saç büküm firesiz açılımı O ->ỿ-> a=12m  b=π*1.7m                
-     
-                           Sualimize diğer yaklaşım  -> Ah=A1+A2
+                                 Anet=[(a+b/2*h)-(π*D^2/4)]-(πD^2)/96       
+                                         A2         Ao       Ao/12*4*2               
+                                                                                  ↓↓Oran ve Orantı
+                                                 ↓↓ bknz r/6  daire dilimin m²? ->Ao*1/12
+                                                 
+Sual= 1/1200 ölçekli topoğrafik haritada  tranşe L=1.2dm ise a) Φ1700mm t=15mm h=12m ise Ao=?Kamyon kantar fişi Kaç ton tekabül eder.h=>Xm³  h/L=>Xm³ tekabül eder.
+  ↓↓Ao
+b) O ->ỿ-> A0/12=π*D*L/2 sağlamasını yapınız.   
+ 
+                          Sualimize diğer yaklaşım  -> Ah=A1+A2
 
                                \          /-->Harfiyat              
                            h↓-  \        /---->Ah               
@@ -500,7 +504,7 @@ eğimli bir rampanın önden görünüşü=>okey takozu olarak suali muhakeme et
                                       Anet=Ah-Ao-Ao/12
 
 
-Sual: Φ800mm a=1.25m ->1/5000 ölçekli topoğrafik haritada L=150mm ise 1 ve 2 kantar fiş oranı nedir? _____________________________________________________________________________________________________________________
+Sual: Φ800mm a=1.25m ->1/5000 ölçekli topoğrafik haritada L=1.25dm ise 1 ve 2 kantar fiş oranı nedir? _____________________________________________________________________________________________________________________
 Töhmetsiz elektrod sarfiyatı->V kaynak ağızlı φ3.25mm t=17mm α=60 Φ=1700mm  m=kğ?   n=300 kaynak m=?ton d=7.78gr/cm³        (Benzer şekilde inşaat demiri sarılarak) kğ mukayese ediniz.
  
        b=2x+a          cot60= x/h  1- A=a+b/2*h     2- A=23*17-(17*9.82)
