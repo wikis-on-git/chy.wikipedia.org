@@ -4,10 +4,10 @@ __NOTOC__
 {| border="0" width="100%" style="margin-bottom:-30px"
 [[File:Flag of Northern Cheyenne.svg|right|250px]]
 [[File:Flag of Northern Cheyenne.svg|left|250px]]
-<div style="border:1px solid grey; background:#eeeeff; padding:33px"><center>
-<big><big><big><font color="blue">'''Va'ohtama!'''</font></big></big></big><br/><br/>'''{{NUMBEROFARTICLES}}''' [[Special:Allpages|Netsėhesenėstsehe]].<br>
+<div style="border:1px solid grey; background:#eeeeff; padding:33px"><div class="center">
+<big><big><big><span style="color:blue;">'''Va'ohtama!'''</span></big></big></big><br/><br/>'''{{NUMBEROFARTICLES}}''' [[Special:Allpages|Netsėhesenėstsehe]].<br>
 '''[[:Category:Category-ne'tahe|Category-ne'tahe]]'''
-</div></center></div>
+</div></div></div>
 |}
 <inputbox>
  type      = create
@@ -121,7 +121,7 @@ Mȧhve'ne'evėhene'enomo hotse'ohtȯtse hohkeeheso.
 <div style="background-color:#AADDAA; font-size:1px; height:8px; border-bottom:1px solid #97BF87;"></div>
 <div style="float:right; margin:5px; margin-bottom:0px"></div>
 <div style="font: 13pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;">Chief Dull Knife</div><br>
-<div style="font-size:9pt; padding:5px"><center>[[File:Dull Knife.jpg|200px|thumb|[[Vóóhéhéve]]]]</center></div>
+<div style="font-size:9pt; padding:5px">[[File:Dull Knife.jpg|200px|thumb|center|[[Vóóhéhéve]]]]</div>
 |}
 
 == Wikipedias in other Indigenous languages of the Americas ==
